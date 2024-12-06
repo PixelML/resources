@@ -1,3 +1,14 @@
+# Welcome to the Multimodal Gen AI Hack, hosted by Intel Liftoff! 🚀
+
+This hackathon focuses on Multimodal Generative AI, which enables you to create applications that combine various data types, such as text, images, and audio. You can explore two main approaches:
+
+🔧 The Engineering-Driven Approach: Combine specialized models for each modality to create a tailored pipeline. For instance, you could use Whisper for audio transcription, pass the text to an LLM like Llama 3.1 for generating creative prompts, and then visualize the output using an image generation model like Stable Diffusion. This modular approach is well-suited for tasks such as developing an AI-driven content creation pipeline or an interactive storytelling system.
+
+🌐 The Pure Multimodal Model Approach: Utilize state-of-the-art models like LLaVA-NeXT or Moondream, which integrate vision transformers (ViT) and LLMs into a single model. These models can process multimodal inputs end-to-end, enabling applications like visual question answering, where the system can comprehend an image and respond to queries about its content. For example, you could create an AI agent for retail that analyzes product shelf images and takes action by generating insights about restocking, suggesting promotions, or notifying relevant teams.
+
+To make things even more exciting, we have a variety of prizes up for grabs, thanks to our fantastic startup partners in the Liftoff program. You could win:
+
+
 # Dive into the World of Generative AI
 
 Dive into the world of generative AI and keep the spirit of innovation alive. Check out the [challenges](https://github.com/adventofmultimodalai/challenges) and [resources](https://github.com/adventofmultimodalai/resources) to start your own GenAI journey today!
@@ -29,6 +40,11 @@ Hello, AI Adventurers! Ready to navigate the exciting world of Generative AI wit
 4. **LLM Deployments on Intel Data Center Max Series GPUs**  
    [GitHub Repository](https://github.com/TiberAICommunity/xpu_tgi)  
    A set of deployment docs for LLM deployments using TGI.
+
+5. **LLaVA-NeXT Multimodal Chatbot with OpenVINO**  
+   [Notebook Link](https://docs.openvino.ai/2024/notebooks/llava-next-multimodal-chatbot-with-output.html)  
+   A practical example of building optimized multimodal chatbots combining vision and language with OpenVINO.
+
 
 ---
 
@@ -69,6 +85,8 @@ Hello, AI Adventurers! Ready to navigate the exciting world of Generative AI wit
       ```
 
    - 💪 Run through some of the examples in the [Using LLMs](https://docs.predictionguard.com/usingllms) section of the docs to learn more about basical prompting, prompt engineering, retrieval, chat, agents, etc.
+   - 🌐 Dive into the [Multimodal Capabilities](https://docs.predictionguard.com/options/lvms) supported by Prediction Guard APIs to build intelligent, multi-modal AI solutions.
+
 
 ---
 
@@ -134,6 +152,16 @@ Hello, AI Adventurers! Ready to navigate the exciting world of Generative AI wit
 
 9.**Mastery in Retrieval Augmented Generation and Multi Modals**
    - 🎓 Learn from [LangChain]([https://python.langchain.com/docs/use_cases/question_answering/](https://python.langchain.com/docs/how_to/#multimodal)) and [Llama-index](https://docs.llamaindex.ai/en/stable/use_cases/multimodal/)
+
+
+## Additional Resources
+
+- **[A Comprehensive Guide to Multimodal LLMs and How They Work](https://www.ionio.ai/blog/a-comprehensive-guide-to-multimodal-llms-and-how-they-work)**  
+  This blog explores how to integrate different modalities using specialized models, providing a clear roadmap to build versatile multimodal applications.
+
+- **[Guide to Building Multimodal RAG Systems](https://www.analyticsvidhya.com/blog/2024/09/guide-to-building-multimodal-rag-systems/)**  
+  A detailed guide on constructing retrieval-augmented generation (RAG) systems combining text, images, and other data formats to handle diverse use cases.
+
 
 # Contributing 🤝
 
