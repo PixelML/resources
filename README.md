@@ -130,7 +130,7 @@ Hello, AI Adventurers! Ready to navigate the exciting world of Generative AI wit
      ```
      
 8. **Vector Databases: Exploring with LanceDB**
-    - 🗂️ Engage with [LanceDB VectorDB Recipes](https://github.com/lancedb/vectordb-recipes/blob/main/examples/multimodal_search/main.ipynb)
+    - 🗂️ Engage with [LanceDB VectorDB Recipes](https://github.com/lancedb/vectordb-recipes/tree/main/examples/multimodal_clip_diffusiondb)
 
 9.**Mastery in Retrieval Augmented Generation**
    - 🎓 Learn from [LangChain](https://python.langchain.com/docs/use_cases/question_answering/) and [Llama-index](https://docs.llamaindex.ai/en/stable/getting_started/concepts.html)
