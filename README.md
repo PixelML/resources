@@ -6,7 +6,7 @@ This hackathon focuses on Multimodal Generative AI, which enables you to create 
 
 🌐 The Pure Multimodal Model Approach: Utilize state-of-the-art models like LLaVA-NeXT or Moondream, which integrate vision transformers (ViT) and LLMs into a single model. These models can process multimodal inputs end-to-end, enabling applications like visual question answering, where the system can comprehend an image and respond to queries about its content. For example, you could create an AI agent for retail that analyzes product shelf images and takes action by generating insights about restocking, suggesting promotions, or notifying relevant teams.
 
-To make things even more exciting, we have a variety of prizes up for grabs, thanks to our fantastic startup partners in the Liftoff program. You could win:
+To make things even more exciting, we have a variety of prizes up for grabs, thanks to our fantastic startup partners in the Liftoff program. 
 
 
 # Dive into the World of Generative AI
@@ -18,10 +18,6 @@ Dive into the world of generative AI and keep the spirit of innovation alive. Ch
 </div>
 
 Hello, AI Adventurers! Ready to navigate the exciting world of Generative AI with us? Here's everything you need to ace the [Advent of MultiModal AI](https://adventaihacks.com) hackathon:
-
----
-
-Hello, AI Adventurers! Ready to navigate the exciting world of Generative AI with us? Here's everything you need to ace the [Advent of MultiModal AI](https://adventaihacks.com)) hackathon:
 
 
 # GenAI GitHub Repositories
