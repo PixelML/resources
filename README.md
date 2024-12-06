@@ -132,11 +132,8 @@ Hello, AI Adventurers! Ready to navigate the exciting world of Generative AI wit
 8. **Vector Databases: Exploring with LanceDB**
     - 🗂️ Engage with [LanceDB VectorDB Recipes](https://github.com/lancedb/vectordb-recipes/tree/main/examples/multimodal_clip_diffusiondb)
 
-9.**Mastery in Retrieval Augmented Generation**
-   - 🎓 Learn from [LangChain](https://python.langchain.com/docs/use_cases/question_answering/) and [Llama-index](https://docs.llamaindex.ai/en/stable/getting_started/concepts.html)
- 
-10. **Building LLM Applications: The Ultimate Guide**
-    - 📘 Deep dive into [Llama-index Docs](https://docs.llamaindex.ai/en/stable/understanding/understanding.html)
+9.**Mastery in Retrieval Augmented Generation and Multi Modals**
+   - 🎓 Learn from [LangChain]([https://python.langchain.com/docs/use_cases/question_answering/](https://python.langchain.com/docs/how_to/#multimodal)) and [Llama-index](https://docs.llamaindex.ai/en/stable/use_cases/multimodal/)
 
 # Contributing 🤝
 
