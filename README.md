@@ -1,4 +1,4 @@
-# Welcome to the Multimodal Gen AI Hack, hosted by Intel Liftoff! 🚀
+## Welcome to the Multimodal Gen AI Hack, hosted by Intel Liftoff! 🚀
 
 This hackathon focuses on Multimodal Generative AI, which enables you to create applications that combine various data types, such as text, images, and audio. You can explore two main approaches:
 
@@ -9,7 +9,7 @@ This hackathon focuses on Multimodal Generative AI, which enables you to create 
 To make things even more exciting, we have a variety of prizes up for grabs, thanks to our fantastic startup partners in the Liftoff program. 
 
 
-# Dive into the World of Generative AI
+## Dive into the World of Generative AI
 
 Dive into the world of generative AI and keep the spirit of innovation alive. Check out the [challenges](https://github.com/adventofmultimodalai/challenges) and [resources](https://github.com/adventofmultimodalai/resources) to start your own GenAI journey today!
 
@@ -65,9 +65,16 @@ We’ve prepared API endpoints for text generation and image generation to power
 
 ---
 
+### Intel Geti and Resources:
+- **Access to Intel Geti:** [https://intel.ly/3VoxZ7V](https://intel.ly/3VoxZ7V)
+- **Intel Geti:** [https://app.geti.intel.com/](https://app.geti.intel.com/)
+- **Documentation:** [https://docs.geti.intel.com/cloud/guide/get-started/introduction.html](https://docs.geti.intel.com/cloud/guide/get-started/introduction.html)
+- **Geti SDK:** [https://github.com/openvinotoolkit/geti-sdk](https://github.com/openvinotoolkit/geti-sdk)
+- **OpenVINO Test Drive:** [https://github.com/openvinotoolkit/openvino_testdrive](https://github.com/openvinotoolkit/openvino_testdrive)
+
 
 <a name="prediction-guard"></a>
-**Prediction Guard: Access a variety of privacy-conserving LLMs, validate outputs**
+### Prediction Guard: Access a variety of privacy-conserving LLMs, validate outputs
    - 🛡️ Explore [Prediction Guard Documentation](https://docs.predictionguard.com). Check out the "Getting Started" and "Using LLMs" pages to run your first text or chat completions with the Prediction Guard API or Python client.
 
       ```python
@@ -96,7 +103,7 @@ We’ve prepared API endpoints for text generation and image generation to power
 
 ---
 
-**Intel Extension for PyTorch (XPUs):**
+### Intel XPUs (GPUs) and Intel Extension for PyTorch ( required to use XPUs):**
    - 🔥 Check if XPU is ready:
      ```python
      import torch
@@ -118,7 +125,7 @@ We’ve prepared API endpoints for text generation and image generation to power
      ```
 ---
 
-**Python Package Installation: Effortlessly**
+### Python Package Installation: Effortlessly
    - 📦 Streamline your installations:
      ```python
      import sys
@@ -153,14 +160,14 @@ We’ve prepared API endpoints for text generation and image generation to power
      conda install ...
      ```
      
-**Vector Databases: Exploring with LanceDB**
+### Vector Databases: Exploring with LanceDB
     - 🗂️ Engage with [LanceDB VectorDB Recipes](https://github.com/lancedb/vectordb-recipes/tree/main/examples/multimodal_clip_diffusiondb)
 
 **Mastery in Retrieval Augmented Generation and Multi Modals**
    - 🎓 Learn from [LangChain]([https://python.langchain.com/docs/use_cases/question_answering/](https://python.langchain.com/docs/how_to/#multimodal)) and [Llama-index](https://docs.llamaindex.ai/en/stable/use_cases/multimodal/)
 
 
-## Additional Resources
+### Additional Resources
 
 - **[A Comprehensive Guide to Multimodal LLMs and How They Work](https://www.ionio.ai/blog/a-comprehensive-guide-to-multimodal-llms-and-how-they-work)**  
   This blog explores how to integrate different modalities using specialized models, providing a clear roadmap to build versatile multimodal applications.
@@ -169,13 +176,13 @@ We’ve prepared API endpoints for text generation and image generation to power
   A detailed guide on constructing retrieval-augmented generation (RAG) systems combining text, images, and other data formats to handle diverse use cases.
 
 
-# Contributing 🤝
+## Contributing 🤝
 
 **Share Your Genius:**
 - Fork the repository, push your changes, and open a pull request.
 - Remember, every bit of contribution helps us sail further in the ocean of AI!
 
-# Reporting Issues 🐛
+## Reporting Issues 🐛
 
 **Spot Something Amiss?**
 - Stumbled upon a bug or facing a challenge? Let us help! 🛠️
