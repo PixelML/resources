@@ -19,6 +19,13 @@ Dive into the world of generative AI and keep the spirit of innovation alive. Ch
 
 Hello, AI Adventurers! Ready to navigate the exciting world of Generative AI with us? Here's everything you need to ace the [Advent of MultiModal AI](https://adventaihacks.com) hackathon:
 
+# Model APIs for the Hackathon
+
+We’ve prepared API endpoints for text generation and image generation to power your hackathon projects. You can use these APIs to interact with models like LLaVA-Next, Phi3, and Flux.  
+
+- 📄 **[API Documentation](https://github.com/adventofmultimodalai/api.md)**: Learn how to access and use the APIs.
+- 🚀 Start building innovative applications by leveraging these endpoints today!
+
 
 # GenAI GitHub Repositories
 
@@ -30,12 +37,12 @@ Hello, AI Adventurers! Ready to navigate the exciting world of Generative AI wit
    [GitHub Repository](https://github.com/rskasturi/usecases)  
    Key insights on GenAI applications, including Stable Diffusion, LLM inference, fine-tuning, and code generation with Intel GPUs.  
 
-3. **Diffusion Model Serving with Ray on Intel GPUs**  
+3. **Diffusion Model Serving with Ray on Intel Data Center Max Series GPUs**  
    [GitHub Repository](https://github.com/rahulunair/xpu_ray)  
 
-4. **LLM Deployments on Intel Data Center Max Series GPUs**  
-   [GitHub Repository](https://github.com/TiberAICommunity/xpu_tgi)  
-   A set of deployment docs for LLM deployments using TGI.
+4. **Gen AI model Deployments on Intel Data Center Max Series GPUs**  
+   [Tiber AI community](https://tiberaicommunity.github.io)  
+   A collection of deployment docs for LLM and image models.
 
 5. **LLaVA-NeXT Multimodal Chatbot with OpenVINO**  
    [Notebook Link](https://docs.openvino.ai/2024/notebooks/llava-next-multimodal-chatbot-with-output.html)  
