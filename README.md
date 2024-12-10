@@ -19,7 +19,7 @@ Dive into the world of generative AI and keep the spirit of innovation alive. Ch
 
 Hello, AI Adventurers! Ready to navigate the exciting world of Generative AI with us? Here's everything you need to ace the [Advent of MultiModal AI](https://adventaihacks.com) hackathon:
 
-# Model APIs for the Hackathon
+### Model APIs for the Hackathon
 
 We’ve prepared API endpoints for text generation and image generation to power your hackathon projects. You can use these APIs to interact with models like LLaVA-Next, Phi3, and Flux.  
 
@@ -27,7 +27,7 @@ We’ve prepared API endpoints for text generation and image generation to power
 - 🚀 Start building innovative applications by leveraging these endpoints today!
 
 
-# GenAI GitHub Repositories
+### GenAI GitHub Repositories
 
 1. **GenAI Playground on Intel GPUs**  
    [GitHub Repository](https://github.com/rahulunair/genAI)  
@@ -51,20 +51,22 @@ We’ve prepared API endpoints for text generation and image generation to power
 
 ---
 
-3. **Intel Developer Cloud**
+### Intel Developer Cloud
    
-   - 🌐 Step into the [Intel Tiber AI Cloud](https://cloud.intel.com) (IDC), register for free, and access Intel Xeons CPUs and GPUs. Discover a set of curated notebooks for Stable Diffusion, LLM inference and Finetuning on Intel under the 'Gen AI Essentials' section.
+   - 🌐 Step into the [Intel Tiber AI Cloud](https://cloud.intel.com) (IDC), register for free, and access Intel Xeons CPUs GPUs & HPUs. Discover a set of curated notebooks for Stable Diffusion, LLM inference Finetuning and more under the `Learning` section.
    - **Each notebook will give you access to:** 
       - Jupyter Notebook: Each participant will work within a Jupyter Notebook environment, optimized for Generative AI challenges. 
       - Disk Space: Upto 30 GB per user (Depending up on capacity). 
-      - GPU: Intel GPU with 48 GB (Data Center Max 1100), tailored for AI applications. 
-      - CPU: 4th Gen Intel Xeon. 
+      - GPU: Intel GPU with 48 GB (Data Center Max 1100), tailored for AI applications.
+      - Intel Gaudi2 (HPU) with 96 GB (Intel Habana Gaudi 2), tailored for Gen AI applications.
 
+    
+    > **Note**: If you need dedicated hardware access, kindly let us know and we can provide you credits to spin up dedicated instances.
 ---
 
 
 <a name="prediction-guard"></a>
-3. **Prediction Guard: Access a variety of privacy-conserving LLMs, validate outputs**
+**Prediction Guard: Access a variety of privacy-conserving LLMs, validate outputs**
    - 🛡️ Explore [Prediction Guard Documentation](https://docs.predictionguard.com). Check out the "Getting Started" and "Using LLMs" pages to run your first text or chat completions with the Prediction Guard API or Python client.
 
       ```python
@@ -93,7 +95,7 @@ We’ve prepared API endpoints for text generation and image generation to power
 
 ---
 
-4. **Intel Extension for PyTorch (XPUs):**
+**Intel Extension for PyTorch (XPUs):**
    - 🔥 Check if XPU is ready:
      ```python
      import torch
@@ -104,7 +106,7 @@ We’ve prepared API endpoints for text generation and image generation to power
 
 ---
 
-5. **Detect Your AI Resources: The Discovery Commands**
+**Detect Your AI Resources: The Discovery Commands**
    - 🔍 Uncover Intel GPUs and CPUs:
      ```bash
      echo "Intel GPUs:"
@@ -115,7 +117,7 @@ We’ve prepared API endpoints for text generation and image generation to power
      ```
 ---
 
-6. **Python Package Installation: Effortlessly**
+**Python Package Installation: Effortlessly**
    - 📦 Streamline your installations:
      ```python
      import sys
@@ -140,7 +142,7 @@ We’ve prepared API endpoints for text generation and image generation to power
       set_local_bin_path()
      ```
    
-7. **Craft Your Custom Conda Environment**
+**Craft Your Custom Conda Environment**
    - 🧪 Mix your perfect environment:
      ```bash
      conda clone pytorch-gpu <new_name>
@@ -150,10 +152,10 @@ We’ve prepared API endpoints for text generation and image generation to power
      conda install ...
      ```
      
-8. **Vector Databases: Exploring with LanceDB**
+**Vector Databases: Exploring with LanceDB**
     - 🗂️ Engage with [LanceDB VectorDB Recipes](https://github.com/lancedb/vectordb-recipes/tree/main/examples/multimodal_clip_diffusiondb)
 
-9.**Mastery in Retrieval Augmented Generation and Multi Modals**
+**Mastery in Retrieval Augmented Generation and Multi Modals**
    - 🎓 Learn from [LangChain]([https://python.langchain.com/docs/use_cases/question_answering/](https://python.langchain.com/docs/how_to/#multimodal)) and [Llama-index](https://docs.llamaindex.ai/en/stable/use_cases/multimodal/)
 
 
