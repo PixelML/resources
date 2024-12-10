@@ -1,8 +1,25 @@
-This API documentation is designed for participants of the **Advent of Multi-Modal Hackathon** to help you access and utilize state-of-the-art AI models seamlessly. The APIs provide capabilities for generative text, multimodal inputs (image + text), and advanced image generation. Using the instructions and examples provided below, participants can integrate these models into their projects and build innovative, fully automated solutions for the hackathon challenges.
+# 🌟 **Advent of Multi-Modal Hackathon: API Documentation** 🚀
 
-To deploy these models with a dedicated API for your project, explore our AI templates at [https://tiberaicommunity.github.io/ai-templates](https://tiberaicommunity.github.io/ai-templates). We can also assist in providing dedicated hardware upon request. For additional model suggestions or contributions, visit [xpu_tgi](https://github.com/tiberaicommunity/xpu_tgi) or [xpu_ray](https://github.com/rahulunair/xpu_ray). If these resources were helpful, please consider leaving a star on the project repositories to show your support!
+Welcome to the **Advent of Multi-Modal Hackathon**, where innovation meets creativity! 🎨✨ This documentation is your ultimate guide to accessing and leveraging deployed AI models for he hack. Whether you’re generating text, combining multimodal inputs (🖼️+✍️), or creating stunning visuals, these APIs will help you to build **awesome solutions** for the hackathon challenges. 🛠️💡
 
+---
 
+## 🛠️ **Getting Started**
+
+- **Deploy Models Instantly**: Explore our AI templates at [🌐 https://tiberaicommunity.github.io/ai-templates](https://tiberaicommunity.github.io/ai-templates) to set up a dedicated API for your project. 🖥️✨
+- **Need Hardware?**: Reach out, and we’ll assist with dedicated compute resources. 💪⚙️
+- **Contribute & Star**: Have model ideas or suggestions? Check out [⭐ xpu_tgi](https://github.com/tiberaicommunity/xpu_tgi) and [⭐ xpu_ray](https://github.com/rahulunair/xpu_ray) to contribute or leave a star if you find these resources helpful! 🌟
+
+---
+
+## 🔑 **What’s Inside?**
+
+These APIs give you access to:
+- 💬 **Generative Text**: Craft compelling stories, summaries, or technical responses.
+- 🎨 **Image Generation**: Create breathtaking visuals from simple text prompts.
+- 🖼️+✍️ **Multimodal Fusion**: Combine text and images for a richer AI experience.
+
+Dive into the examples below to supercharge your hackathon projects! 🚀✨ Let’s build something incredible together! 💡🎉
 
 # **LLava-Next API Guide**
 
