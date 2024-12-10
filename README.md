@@ -87,7 +87,7 @@ We’ve prepared API endpoints for text generation and image generation to power
       ))
       ```
 
-   - 💪 Run through some of the examples in the [Using LLMs](https://docs.predictionguard.com/usingllms) section of the docs to learn more about basical prompting, prompt engineering, retrieval, chat, agents, etc.
+   - 💪 Run through some of the examples in the [Using LLMs](https://docs.predictionguard.com/usingllms/accessing) section of the docs to learn more about basical prompting, prompt engineering, retrieval, chat, agents, etc.
    - 🌐 Dive into the [Multimodal Capabilities](https://docs.predictionguard.com/options/lvms) supported by Prediction Guard APIs to build intelligent, multi-modal AI solutions.
 
 
