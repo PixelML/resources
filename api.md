@@ -1,6 +1,6 @@
 # 🌟 **Advent of Multi-Modal Hackathon: API Documentation** 🚀
 
-Welcome to the **Advent of Multi-Modal Hackathon**, where innovation meets creativity! 🎨✨ This documentation is your ultimate guide to accessing and leveraging deployed AI models for he hack. Whether you’re generating text, combining multimodal inputs (🖼️+✍️), or creating stunning visuals, these APIs will help you to build **awesome solutions** for the hackathon challenges. 🛠️💡
+Welcome to the **Advent of Multi-Modal Hackathon**, where innovation meets creativity! 🎨✨ This documentation is your ultimate guide to accessing and leveraging deployed AI models for the hack. Whether you’re generating text, combining multimodal inputs (🖼️+✍️), or creating stunning visuals, these APIs will help you to build **awesome solutions** for the hackathon challenges. 🛠️💡
 
 ---
 
