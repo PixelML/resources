@@ -61,7 +61,8 @@ We’ve prepared API endpoints for text generation and image generation to power
       - Intel Gaudi2 (HPU) with 96 GB (Intel Habana Gaudi 2), tailored for Gen AI applications.
 
     
-    > Note: If you need dedicated hardware access, kindly let us know and we can provide you credits to spin up dedicated instances.
+> 💡 **Note**: If you need dedicated hardware access, kindly let us know, and we can provide you credits to spin up dedicated instances.
+
 ---
 
 
