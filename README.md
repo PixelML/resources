@@ -195,6 +195,16 @@ Build and deploy your solutions using [AgenticFlow AI](https://agenticflow.ai/),
 - 🛠️ [Pre-built workflow templates](https://agenticflow.ai/app/explore)
 - 🤖 No-code AI automation tools
 
+
+### Additional Resources
+
+- **[A Comprehensive Guide to Multimodal LLMs and How They Work](https://www.ionio.ai/blog/a-comprehensive-guide-to-multimodal-llms-and-how-they-work)**  
+  This blog explores how to integrate different modalities using specialized models, providing a clear roadmap to build versatile multimodal applications.
+
+- **[Guide to Building Multimodal RAG Systems](https://www.analyticsvidhya.com/blog/2024/09/guide-to-building-multimodal-rag-systems/)**  
+  A detailed guide on constructing retrieval-augmented generation (RAG) systems combining text, images, and other data formats to handle diverse use cases.
+
+## Challenge tutorials
 #### Challenge 1: AI Meme Factory
 **Skill Level: Great for Getting Started**
 
@@ -209,15 +219,6 @@ Build a workflow that generates memes by analyzing user-inputted text or emotion
 </div>
 
 📺 [Watch Tutorial Video](https://qra.ai/intelmeme)
-
-### Additional Resources
-
-- **[A Comprehensive Guide to Multimodal LLMs and How They Work](https://www.ionio.ai/blog/a-comprehensive-guide-to-multimodal-llms-and-how-they-work)**  
-  This blog explores how to integrate different modalities using specialized models, providing a clear roadmap to build versatile multimodal applications.
-
-- **[Guide to Building Multimodal RAG Systems](https://www.analyticsvidhya.com/blog/2024/09/guide-to-building-multimodal-rag-systems/)**  
-  A detailed guide on constructing retrieval-augmented generation (RAG) systems combining text, images, and other data formats to handle diverse use cases.
-
 
 ## Contributing 🤝
 
