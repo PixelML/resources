@@ -194,6 +194,7 @@ Build and deploy your solutions using [AgenticFlow AI](https://agenticflow.ai/),
 - 📚 [Documentation](https://docs.agenticflow.ai/)
 - 🛠️ [Pre-built workflow templates](https://agenticflow.ai/app/explore)
 - 🤖 No-code AI automation tools
+- 💬 [Join our Discord](https://qra.ai/discord) for direct support from the Pixel ML team
 
 
 ### Additional Resources
@@ -220,6 +221,10 @@ Build a workflow that generates memes by analyzing user-inputted text or emotion
 
 📺 [Watch Tutorial Video](https://qra.ai/intelmeme)
 
+**Example Templates to Get Started:**
+- 🎭 [Meme - Story Through Icons](https://agenticflow.ai/app/explore/265998c8-e6f3-4155-a75b-975a02fde8cb) - Create narrative memes using iconic representations
+- 😄 [Meme - Emotionalize Objects with Icons](https://agenticflow.ai/app/explore/98ca371b-0884-4fbe-b663-b4699c067869) - Add emotional context to object-based memes
+
 ### Challenge 2: Multi-Modal Story Generator
 **Skill Level: Moderate Challenge**
 
@@ -233,6 +238,10 @@ Create an application that transforms user prompts or product specifications int
 </div>
 
 📚 [View Tutorial](https://qra.ai/intelcontent)
+
+**Example Templates to Get Started:**
+- 🎥 [Video - Story Through Icons](https://agenticflow.ai/app/explore/59912493-26c6-4d81-91a4-c856954b0a7b) - Create video narratives with iconic elements
+- 🎙️ [Podcast - Story Through Icons](https://agenticflow.ai/app/explore/f3abd89b-bc73-43ad-b5bf-a3a8f8d25e23) - Generate audio stories with visual components
 
 
 ## Contributing 🤝
