@@ -23,7 +23,7 @@ Hello, AI Adventurers! Ready to navigate the exciting world of Generative AI wit
 
 We’ve prepared API endpoints for text generation and image generation to power your hackathon projects. You can use these APIs to interact with models like LLaVA-Next, Phi3, and Flux.  
 
-- 📄 **[API Documentation](https://github.com/adventofmultimodalai/resources/blob/main/api.md)**: Learn how to access and use the APIs.
+- 📄 **[API Documentation for hosted LLM and Image Generation Models](https://github.com/adventofmultimodalai/resources/blob/main/api.md)**: Learn how to access and use the APIs.
 - 🚀 Start building innovative applications by leveraging these endpoints today!
 
 
