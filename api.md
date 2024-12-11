@@ -6,8 +6,9 @@ Welcome to the **Advent of Multi-Modal Hackathon**, where innovation meets creat
 
 ## 🛠️ **Getting Started**
 
-- **Deploy Models Instantly**: Explore our AI templates at [🌐 https://tiberaicommunity.github.io/ai-templates](https://tiberaicommunity.github.io/ai-templates) to set up a dedicated API for your project. 🖥️✨
-- **Need Hardware?**: Reach out, and we’ll assist with dedicated compute resources. 💪⚙️
+- **Deploy Models Instantly:** Need dedicated access to APIs during this hack? Explore our **AI templates** to quickly deploy and set up a dedicated API for your project:  
+  [🌐 AI Templates](https://tiberaicommunity.github.io/ai-templates) 🖥️✨
+- **Need Hardware?**: Reach out, and we’ll assist with compute resources. 💪⚙️
 - **Contribute & Star**: Have model ideas or suggestions? Check out [⭐ xpu_tgi](https://github.com/tiberaicommunity/xpu_tgi) and [⭐ xpu_ray](https://github.com/rahulunair/xpu_ray) to contribute or leave a star if you find these resources helpful! 🌟
 
 ---
