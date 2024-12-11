@@ -194,7 +194,7 @@ Build and deploy your solutions using [AgenticFlow AI](https://agenticflow.ai/),
 - 📚 [Documentation](https://docs.agenticflow.ai/)
 - 🛠️ [Pre-built workflow templates](https://agenticflow.ai/app/explore)
 - 🤖 No-code AI automation tools
-
+- 💬 [Join our Discord](https://qra.ai/discord) for direct support from the Pixel ML team
 
 
 ### Additional Resources
@@ -204,6 +204,44 @@ Build and deploy your solutions using [AgenticFlow AI](https://agenticflow.ai/),
 
 - **[Guide to Building Multimodal RAG Systems](https://www.analyticsvidhya.com/blog/2024/09/guide-to-building-multimodal-rag-systems/)**  
   A detailed guide on constructing retrieval-augmented generation (RAG) systems combining text, images, and other data formats to handle diverse use cases.
+
+## Challenge tutorials
+### Challenge 1: AI Meme Factory
+**Skill Level: Great for Getting Started**
+
+Build a workflow that generates memes by analyzing user-inputted text or emotions. The system should:
+- Detect sentiment from user input
+- Select or generate appropriate meme templates
+- Overlay text captions
+- Produce memes that resonate with the intended emotion or message
+
+<div align="center">
+  <img src="https://photoshot-us.s3.us-east-1.amazonaws.com/next-s3-uploads/5d1861b8-2958-42eb-93a2-77b513499a42/Challenge-1.png" alt="AI Meme Factory Challenge" />
+</div>
+
+📺 [Watch Tutorial Video](https://qra.ai/intelmeme)
+
+**Example Templates to Get Started:**
+- 🎭 [Meme - Story Through Icons](https://agenticflow.ai/app/explore/265998c8-e6f3-4155-a75b-975a02fde8cb) - Create narrative memes using iconic representations
+- 😄 [Meme - Emotionalize Objects with Icons](https://agenticflow.ai/app/explore/98ca371b-0884-4fbe-b663-b4699c067869) - Add emotional context to object-based memes
+
+### Challenge 2: Multi-Modal Story Generator
+**Skill Level: Moderate Challenge**
+
+Create an application that transforms user prompts or product specifications into engaging stories or marketing narratives. Your solution should:
+- Generate comprehensive content for storytelling or product promotion
+- Create illustrative images to accompany the narrative
+- Combine multiple modalities for engaging content creation
+
+<div align="center">
+  <img src="https://photoshot-us.s3.us-east-1.amazonaws.com/next-s3-uploads/1fe28e32-584b-456d-ae6c-f795bf8e4e8a/Challenge-2.png" alt="Multi-Modal Story Generator Challenge" />
+</div>
+
+📚 [View Tutorial](https://qra.ai/intelcontent)
+
+**Example Templates to Get Started:**
+- 🎥 [Video - Story Through Icons](https://agenticflow.ai/app/explore/59912493-26c6-4d81-91a4-c856954b0a7b) - Create video narratives with iconic elements
+- 🎙️ [Podcast - Story Through Icons](https://agenticflow.ai/app/explore/f3abd89b-bc73-43ad-b5bf-a3a8f8d25e23) - Generate audio stories with visual components
 
 
 ## Contributing 🤝
