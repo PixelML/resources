@@ -7,13 +7,14 @@ Welcome to the **Advent of Multi-Modal Hackathon**, where innovation meets creat
 
 ## 🔑 **API Overview**
 
-| **Model Name**     | **Endpoint URL**                                                                             | **Authentication Token**                               |
-|---------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| **LLava-Next**      | `https://supplement-convenient-scores-forgotten.trycloudflare.com/llava/generate`           | `Mklm9M70UL39aQhBLiDSDM2yv1V73uXWMA-GBN1LBDU`         |
-| **Phi3**            | `https://cu-vertical-dimensional-continuity.trycloudflare.com/phi3/generate`               | `AEulafWZQ1xhIkeLgjcp5nhL7d0cLPWiXAU34DTVvXI`         |
-| **Flux Server 1**   | `https://maintained-thai-filter-four.trycloudflare.com/imagine/generate`                    | `calm-bold-tree-bd1b1c8bc141403231e7f0a8`             |
-| **Flux Server 2**   | `https://mirrors-stability-males-supplement.trycloudflare.com/imagine/generate`             | `unique-warm-tree-d536eb19a6112b289a167c7b`           |
-| **SDXL-Lightning**  | `https://singing-shadows-duty-loan.trycloudflare.com/imagine/generate`                      | `wise-radiant-wave-b77c84b64e9efa2ebf8710ca`          |
+
+| **Model Name**     | **Endpoint URL**                                                                             | **Authentication Token**                               | **Use Cases**                                    |
+|---------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------|
+| **LLava-Next**      | `https://supplement-convenient-scores-forgotten.trycloudflare.com/llava/generate`           | `Mklm9M70UL39aQhBLiDSDM2yv1V73uXWMA-GBN1LBDU`         | Text and multimodal input responses             |
+| **Phi3**            | `https://cu-vertical-dimensional-continuity.trycloudflare.com/phi3/generate`               | `AEulafWZQ1xhIkeLgjcp5nhL7d0cLPWiXAU34DTVvXI`         | Summarization, creative writing, Q&A           |
+| **Flux Server 1**   | `https://maintained-thai-filter-four.trycloudflare.com/imagine/generate`                    | `calm-bold-tree-bd1b1c8bc141403231e7f0a8`             | High-quality image generation                  |
+| **Flux Server 2**   | `https://mirrors-stability-males-supplement.trycloudflare.com/imagine/generate`             | `unique-warm-tree-d536eb19a6112b289a167c7b`           | Alternate server for image generation          |
+| **SDXL-Lightning**  | `https://singing-shadows-duty-loan.trycloudflare.com/imagine/generate`                      | `wise-radiant-wave-b77c84b64e9efa2ebf8710ca`          | High-resolution and detailed image generation  |
 
 ---
 
