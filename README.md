@@ -53,15 +53,37 @@ We’ve prepared API endpoints for text generation and image generation to power
 
 ### Intel Developer Cloud
    
-   - 🌐 Step into the [Intel Tiber AI Cloud](https://cloud.intel.com) (IDC), register for free, and access Intel Xeons CPUs GPUs & HPUs. Discover a set of curated notebooks for Stable Diffusion, LLM inference Finetuning and more under the `Learning` section.
-   - **Each notebook will give you access to:** 
-      - Jupyter Notebook: Each participant will work within a Jupyter Notebook environment, optimized for Generative AI challenges. 
-      - Disk Space: Upto 30 GB per user (Depending up on capacity). 
-      - GPU: Intel GPU with 48 GB (Data Center Max 1100), tailored for AI applications.
-      - Intel Gaudi2 (HPU) with 96 GB (Intel Habana Gaudi 2), tailored for Gen AI applications.
+- 🌐 Step into the [Intel Tiber AI Cloud](https://cloud.intel.com) (IDC), register for free, and access Intel Xeon CPUs, GPUs, & HPUs. Discover a set of curated notebooks for Stable Diffusion, LLM inference, fine-tuning, and more under the `Learning` section.
+- **This will give you access to:** 
+  - **Jupyter Notebook:** Work within a Jupyter Notebook environment, optimized for Generative AI challenges.
+  - **Disk Space:** Up to 30GB per user (depending on availability).
+  - **GPU:** Intel GPU with 48GB memory (Data Center Max 1100), tailored for AI applications.
+  - **HPU:** Intel Gaudi2 (Habana) with 96GB memory, ideal for Gen AI applications.
 
-    
-> 💡 **Note**: If you need dedicated hardware access, kindly let us know, and we can provide you credits to spin up dedicated instances.
+---
+
+### How to Build and Deploy Your Application
+
+We recommend starting with the **free Jupyter notebooks** available in the **Learning** section for experimentation. These notebooks are perfect for:
+
+- Prototyping your project with AI models like Stable Diffusion and LLMs in a pre-configured environment.
+- Experimenting with Generative AI workflows before deployment.
+
+💡 **Need dedicated Hw for deployment?** While Jupyter notebooks are ideal for experimentation, they are not suited for production deployments. If your project requires **dedicated compute resources for deployment**, let us know. We may provide access to **Intel GPU or CPU VMs** on a **limited, case-by-case basis** due to resource constraints.
+
+---
+
+### Building Outside the Cloud
+
+If you're using only the hosted APIs we’ve provided, feel free to build your project on any platform of your choice. However:
+
+- **⚠️ Important:** Using other hosted API services for this challenge is not allowed.  
+  This ensures fair usage and encourages participants to explore the tools and resources we’ve specifically made available.
+
+---
+
+Start your journey with the Intel Tiber AI Cloud today and unleash your creativity in Generative AI! 🚀
+
 
 ---
 
