@@ -206,6 +206,9 @@ Build and deploy your solutions using [AgenticFlow AI](https://agenticflow.ai/),
   A detailed guide on constructing retrieval-augmented generation (RAG) systems combining text, images, and other data formats to handle diverse use cases.
 
 ## Example Challenge tutorials
+
+Use the examples below to learn how to use the AgenticFlow tool to complete the [challenges](https://github.com/adventofmultimodalai/challenges) we have prepared for you.
+
 ### Example Challenge 1: AI Meme Factory
 **Skill Level: Great for Getting Started**
 
