@@ -195,7 +195,20 @@ Build and deploy your solutions using [AgenticFlow AI](https://agenticflow.ai/),
 - 🛠️ [Pre-built workflow templates](https://agenticflow.ai/app/explore)
 - 🤖 No-code AI automation tools
 
+#### Challenge 1: AI Meme Factory
+**Skill Level: Great for Getting Started**
 
+Build a workflow that generates memes by analyzing user-inputted text or emotions. The system should:
+- Detect sentiment from user input
+- Select or generate appropriate meme templates
+- Overlay text captions
+- Produce memes that resonate with the intended emotion or message
+
+<div align="center">
+  <img src="https://photoshot-us.s3.us-east-1.amazonaws.com/next-s3-uploads/5d1861b8-2958-42eb-93a2-77b513499a42/Challenge-1.png" alt="AI Meme Factory Challenge" />
+</div>
+
+📺 [Watch Tutorial Video](https://qra.ai/intelmeme)
 
 ### Additional Resources
 
