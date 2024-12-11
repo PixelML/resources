@@ -205,8 +205,8 @@ Build and deploy your solutions using [AgenticFlow AI](https://agenticflow.ai/),
 - **[Guide to Building Multimodal RAG Systems](https://www.analyticsvidhya.com/blog/2024/09/guide-to-building-multimodal-rag-systems/)**  
   A detailed guide on constructing retrieval-augmented generation (RAG) systems combining text, images, and other data formats to handle diverse use cases.
 
-## Challenge tutorials
-### Challenge 1: AI Meme Factory
+## Example Challenge tutorials
+### Example Challenge 1: AI Meme Factory
 **Skill Level: Great for Getting Started**
 
 Build a workflow that generates memes by analyzing user-inputted text or emotions. The system should:
@@ -225,7 +225,7 @@ Build a workflow that generates memes by analyzing user-inputted text or emotion
 - 🎭 [Meme - Story Through Icons](https://agenticflow.ai/app/explore/265998c8-e6f3-4155-a75b-975a02fde8cb) - Create narrative memes using iconic representations
 - 😄 [Meme - Emotionalize Objects with Icons](https://agenticflow.ai/app/explore/98ca371b-0884-4fbe-b663-b4699c067869) - Add emotional context to object-based memes
 
-### Challenge 2: Multi-Modal Story Generator
+### Example Challenge 2: Multi-Modal Story Generator
 **Skill Level: Moderate Challenge**
 
 Create an application that transforms user prompts or product specifications into engaging stories or marketing narratives. Your solution should:
