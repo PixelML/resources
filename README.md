@@ -207,5 +207,5 @@ Start your journey with the Intel Tiber AI Cloud today and unleash your creativi
 ## Reporting Issues 🐛
 
 **Spot Something Amiss?**
-- Stumbled upon a bug or facing a challenge? Let us help! 🛠️
-- Create an issue in the [GitHub repository](https://github.com/adventofmultimodal/genAI/issues) with a detailed description.
+- Stumbled upon a typo or facing a challenge? Let us help! 🛠️
+- Create an issue in the [GitHub repository](https://github.com/adventofmultimodal/resources/issues) with a detailed description.
