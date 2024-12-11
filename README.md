@@ -189,6 +189,14 @@ Start your journey with the Intel Tiber AI Cloud today and unleash your creativi
    - 🎓 Learn from [LangChain]([https://python.langchain.com/docs/use_cases/question_answering/](https://python.langchain.com/docs/how_to/#multimodal)) and [Llama-index](https://docs.llamaindex.ai/en/stable/use_cases/multimodal/)
 
 
+### AgenticFlow AI by Pixel ML
+Build and deploy your solutions using [AgenticFlow AI](https://agenticflow.ai/), a powerful platform for creating AI-powered marketing workflows. Get started with:
+- 📚 [Documentation](https://docs.agenticflow.ai/)
+- 🛠️ [Pre-built workflow templates](https://agenticflow.ai/app/explore)
+- 🤖 No-code AI automation tools
+
+
+
 ### Additional Resources
 
 - **[A Comprehensive Guide to Multimodal LLMs and How They Work](https://www.ionio.ai/blog/a-comprehensive-guide-to-multimodal-llms-and-how-they-work)**  
@@ -209,3 +217,4 @@ Start your journey with the Intel Tiber AI Cloud today and unleash your creativi
 **Spot Something Amiss?**
 - Stumbled upon a typo or facing a challenge? Let us help! 🛠️
 - Create an issue in the [GitHub repository](https://github.com/adventofmultimodal/resources/issues) with a detailed description.
+
