@@ -205,7 +205,7 @@ Build and deploy your solutions using [AgenticFlow AI](https://agenticflow.ai/),
   A detailed guide on constructing retrieval-augmented generation (RAG) systems combining text, images, and other data formats to handle diverse use cases.
 
 ## Challenge tutorials
-#### Challenge 1: AI Meme Factory
+### Challenge 1: AI Meme Factory
 **Skill Level: Great for Getting Started**
 
 Build a workflow that generates memes by analyzing user-inputted text or emotions. The system should:
@@ -219,6 +219,21 @@ Build a workflow that generates memes by analyzing user-inputted text or emotion
 </div>
 
 📺 [Watch Tutorial Video](https://qra.ai/intelmeme)
+
+### Challenge 2: Multi-Modal Story Generator
+**Skill Level: Moderate Challenge**
+
+Create an application that transforms user prompts or product specifications into engaging stories or marketing narratives. Your solution should:
+- Generate comprehensive content for storytelling or product promotion
+- Create illustrative images to accompany the narrative
+- Combine multiple modalities for engaging content creation
+
+<div align="center">
+  <img src="https://photoshot-us.s3.us-east-1.amazonaws.com/next-s3-uploads/1fe28e32-584b-456d-ae6c-f795bf8e4e8a/Challenge-2.png" alt="Multi-Modal Story Generator Challenge" />
+</div>
+
+📚 [View Tutorial](https://qra.ai/intelcontent)
+
 
 ## Contributing 🤝
 
